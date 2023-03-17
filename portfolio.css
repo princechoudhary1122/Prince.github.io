@@ -27,7 +27,7 @@ nav{
     cursor: pointer;
 } 
 span{
-    color: #f9004d;
+    color:#153396 ;
 }
 nav ul li{
     list-style-type: none;
@@ -41,11 +41,11 @@ nav ul li a{
     text-transform: capitalize;
 }
 nav ul li a:hover{
-color: #f9004d;
+color:#153396;
 transition:.4s;
 }
 .btn{
-background-color: #f9004d;
+background-color:#153396;
 color: white;
 text-decoration: none;
 border: 2px solid transparent;
@@ -88,7 +88,7 @@ h4{
     display: inline-block;
     width: 100%;
     padding: 14px 130px 14px 15px ;
-    border: 2px solid #f9004d ;
+    border: 2px solid #153396 ;
     border-radius: 30px;
     background-color: transparent;
 }
@@ -99,7 +99,7 @@ h4{
    border: none;
    padding: 10px 30px ;
    border-radius: 30px;
-   background-color: #f9004d;
+   background-color: #153396;
    color: white;
    box-shadow: 0px 0px 5px #000, 0px 0px 15px #858585;
    top: 6px;
@@ -152,7 +152,7 @@ h4{
     line-height: 28px;
 }
 button{
-    background-color: #f9004d;
+    background-color: #153396;
     color: white;
     text-decoration: none;
     border: 2px solid transparent;
@@ -163,7 +163,7 @@ button{
 }
 button:hover{
 background-color: transparent;
-border: 2px solid #f9004d;
+border: 2px solid #153396;
 cursor:pointer;
 }
 .service{
@@ -200,7 +200,7 @@ cursor:pointer;
     display: block;
     text-align: center;
     margin: 25px 0px;
-    color:#f9004d;
+    color:#153396;
 
 }
 h5{
@@ -215,7 +215,7 @@ h5{
     margin-bottom: 25px;
 }
 .pra .button{
-    background-color: #f9004d;
+    background-color:#153396;
     color: white;
     text-decoration: none;
     border: 2px solid transparent;
@@ -245,7 +245,7 @@ h5{
     font-weight: bold;
 }
 .contact_me .button-two{
-    background-color: #f9004d;
+    background-color: #153396;
     color: white;
     text-decoration: none;
     border: 2px solid transparent;
@@ -256,7 +256,7 @@ h5{
 }
 .contact_me .button-two:hover{
     background: transparent;
-    border : 2px solid #f9004d;
+    border : 2px solid #153396;
     cursor: pointer;
 }
 footer{
@@ -289,7 +289,7 @@ footer p:nth-child(2){
 .social a{
  width: 45px;
  height: 45px;
- background : #f9004d;  
+ background :#153396;  
  border-radius: 50%; 
  display: flex;
   align-items: center;
@@ -305,12 +305,12 @@ text-decoration: none;
 }
 .end{
     position:absolute;
-    color: #f9004d;
+    color:#153396;
     bottom: 35px;
     font-size: 14px;
 }
 .nd2 i{
-    color:  #f9004d;
+    color: #153396;
     font-size: 20px;
     margin: 0px 10px;
 }
